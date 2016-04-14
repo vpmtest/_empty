@@ -1,0 +1,15 @@
+{
+        "name":"pkg1",
+        "version":"1.0.0",
+        "repository":{"type":"git","url":"https://github.com/vpmtest/pkg1.git"},
+        "main":"",
+        "files":[],
+        "dependencies":{
+        },
+        "devDependencies":{
+        },
+        "peerDependencies":{
+        },
+        "scripts":{},
+        "tarball":"https://github.com/vpmtest/pkg1/archive/master.tar.gz"
+      }
